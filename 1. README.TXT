@@ -1,5 +1,5 @@
 ========================
-My Schedule Builder v0.1
+My Schedule Builder v1.0
 ========================
 
 READ BEFORE USING:
@@ -10,6 +10,4 @@ https://java.com/download
 
 2. Never take the main .jar file out of the "My Schedule Builder" folder. You can always create a shortcut/alias of the file.
 
-3. Send to giovannigandov@hotmail.com any feedback to improve the program.
-
-4. Execute program pressing the "My Schedule Builder v1.jar" file.
+3. Execute program pressing the "My Schedule Builder v1.jar" file.
