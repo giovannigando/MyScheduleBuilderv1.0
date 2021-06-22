@@ -1,0 +1,15 @@
+========================
+My Schedule Builder v0.1
+========================
+
+READ BEFORE USING:
+
+1. Make sure you have Java installed in your computer. Otherwise, install it: 
+
+https://java.com/download
+
+2. Never take the main .jar file out of the "My Schedule Builder" folder. You can always create a shortcut/alias of the file.
+
+3. Send to giovannigandov@hotmail.com any feedback to improve the program.
+
+4. Execute program pressing the "My Schedule Builder v1.jar" file.
